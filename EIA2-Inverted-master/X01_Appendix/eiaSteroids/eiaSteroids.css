@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  grid-template-rows: auto;
+  display: grid;
+  align-content: center;
+  text-align: center;
+  font-family: "Quantum";
+}
+
+@font-face{
+  font-family:"Quantum";
+  src:url('Font/Quantum\ 400.otf');
+ }
+ 
